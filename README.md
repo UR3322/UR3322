@@ -4,6 +4,8 @@
 
 **FinTech student @ FAST NUCES Islamabad** · Building AI-enhanced financial systems
 
+![Profile views](https://komarev.com/ghpvc/?username=UR3322&style=flat-square&color=0A66C2)
+
 </div>
 
 ---
@@ -54,6 +56,8 @@
 ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=UR3322&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UR3322&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=UR3322&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UR3322&theme=tokyo-night&hide_border=true)
 
 </div>
 
