@@ -12,7 +12,7 @@
 
 - 🎓 BS Financial Technology (FinTech) @ FAST National University of Computer and Emerging Sciences, Islamabad
 - 🤖 I work at the intersection of **finance and machine learning** — credit scoring, fraud-aware wallets, and market prediction
-- 🎯 Goal: a fintech engineering role in the **UAE**
+- 🎯 Interested in fintech engineering, credit risk modeling, and explainable AI
 - 🌱 Currently deep into **explainable AI** for lending decisions
 
 ---
