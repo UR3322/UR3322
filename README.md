@@ -53,8 +53,6 @@
 
 <div align="center">
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=UR3322&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UR3322&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=UR3322&theme=tokyonight&hide_border=true)
 
 </div>
