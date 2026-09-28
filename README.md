@@ -70,6 +70,7 @@
 ### 📫 Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-UR3322-181717?style=for-the-badge&logo=github)](https://github.com/UR3322)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Usman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-142a9528b)
 
 *Open to fintech internships and junior engineering roles — especially in the UAE.*
 
