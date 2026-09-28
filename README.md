@@ -57,8 +57,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UR3322&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=UR3322&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UR3322&theme=tokyo-night&hide_border=true)
-
 </div>
 
 ---
